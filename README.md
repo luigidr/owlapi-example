@@ -11,4 +11,4 @@ In particular, the project will:
   * which courses each degree offers
   * who is enrolled in those courses
   
-It uses OWL API (version 4.2.8) and the [HermiT](http://www.hermit-reasoner.com) reasoner (version 1.3.8.413). Dependencies are handled by Gradle.
+It uses OWL API (version 4.5.4) and the [HermiT](http://www.hermit-reasoner.com) reasoner (version 1.3.8.413). Dependencies are handled by Gradle.
